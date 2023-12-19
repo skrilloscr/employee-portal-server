@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "admin@demoapp.com",
+      "active": "1",
+      "password": "demoapp123"
+    },
+    {
+      "name": "Ram",
+      "email": "Ram.chander@gmail.com",
+      "active": "0",
+      "id": 4
+    },
+    {
+      "name": "Guru",
+      "email": "Gurumonpp@gmail.com",
+      "active": "0",
+      "id": 6
+    },
+    {
+      "name": "manoharAn",
+      "email": "manoharan1@gmail.com",
+      "active": "0",
+      "id": 7
+    },
+    {
+      "name": "lucy",
+      "email": "lucy@hotmail.in",
+      "active": "1",
+      "id": 8
+    },
+    {
+      "name": "raja",
+      "email": "rajasett@yahoo.in",
+      "active": "0",
+      "id": 9
+    },
+    {
+      "name": "lalu",
+      "email": "lalusukumar@mailme.in",
+      "active": "1",
+      "id": 10
+    },
+    {
+      "name": "manu",
+      "email": "manus112@gmail.com",
+      "active": "1",
+      "id": 11
+    },
+    {
+      "name": "peter",
+      "email": "peterparker@gmail.in",
+      "active": "0",
+      "id": 12
+    },
+    {
+      "name": "tony",
+      "email": "tonyStark@starkindustries.co",
+      "active": "1",
+      "id": 13
+    },
+    {
+      "name": "tom",
+      "email": "holland@hollywood.co",
+      "active": "1",
+      "id": 14
+    }
+  ]
+}
